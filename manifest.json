@@ -1,0 +1,10 @@
+{
+  "manifest_version": 3,
+  "name": "WhatsApp Message Sender",
+  "version": "1.0",
+  "description": "Send messages to WhatsApp contacts from the browser.",
+  "permissions": ["activeTab", "storage"],
+  "action": {
+    "default_popup": "popup.html"
+     }
+}
